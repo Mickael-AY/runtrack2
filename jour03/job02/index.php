@@ -6,3 +6,4 @@ while (isset($str[$i])) {
 	$i += 2;
 }
 ?>
+$_GET
